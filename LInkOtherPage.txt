@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+ <title>Connect Other Page</title>
+ <head>
+ <p>• Fully Static Operation
+• Diode Protection on All Inputs
+• Supply Voltage Range = 3.0 Vdc to 18 Vdc
+• Capable of Driving Two Low−power TTL Loads or One
+Low−power Schottky TTL Load Over the Rated Temperature
+Range
+• Common Reset Line
+• Pin−for−Pin Replacement for CD4040B
+• NLV Prefix for Automotive and Other Applications Requiring
+Unique Site and Control Change Requirements; AEC−Q100
+Qualified and PPAP Capable
+• These Devices are Pb−Free and are RoHS Compliant
+
+MAXIMUM RATINGS (Voltages Referenced to VSS)
+
+</p>
+<a href="goTOBottomOfThePage.html"></a>
+ <head>
+ <body>
+
+</html>
